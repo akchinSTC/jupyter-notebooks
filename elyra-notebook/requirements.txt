@@ -1,0 +1,3 @@
+### scipy-notebook
+
+elyra==1.0.0rc0
