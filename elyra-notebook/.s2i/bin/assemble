@@ -8,8 +8,6 @@ set -eo pipefail
 
 /opt/app-root/builder/assemble
 
-jupyter tensorboard enable --sys-prefix
-
 # Fix up permissions.
 
 fix-permissions /opt/app-root
