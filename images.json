@@ -116,7 +116,7 @@
                 "output": {
                     "to": {
                         "kind": "ImageStreamTag",
-                        "name": "s2i-elyra-notebook:1.0.0.rc0"
+                        "name": "s2i-elyra-notebook:1.0.0rc0"
                     }
                 },
                 "resources": {
